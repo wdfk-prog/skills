@@ -1,0 +1,5 @@
+﻿interface:
+  display_name: "月度工作总结生成器"
+  short_description: "把聊天记录整理为固定模板月报（单块工作内容+总结）"
+  default_prompt: "Use $monthly-work-summary to rewrite my raw notes into the fixed monthly report template with title, overview, one single work-content section, and summary."
+  brand_color: "#2B6CB0"
