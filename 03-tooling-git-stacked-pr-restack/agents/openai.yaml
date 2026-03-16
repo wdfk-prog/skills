@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stacked PR Restack"
+  short_description: "Split mixed commits into clean stacked review layers."
+  default_prompt: "Use $03-tooling-git-stacked-pr-restack to restack and split my local branch stack into reviewable PR layers."
